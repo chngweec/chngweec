@@ -10,3 +10,5 @@
 chngweec/chngweec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+I'm the manager for a team of test developer's. We regularly collaborate on similar projects, each taking care of the changes. In addition, we would all have access to the shared respository and are able to create new branches when we make program changes for release to the production to use.
